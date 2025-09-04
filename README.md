@@ -54,7 +54,7 @@ Tested with Python 3.10/Ubuntu 22.04
 * designed for openhab2 compatibility
 * HA compatibility
 * Built in Web Server for interactive control/Mapping
-* Simulation mode topic for easier debugging
+
 
 ## Live Maps
 Live tracking of Roomba location and track, updated in real time:
